@@ -1,0 +1,8 @@
+{
+  "docker_install_ubuntu" : {
+  "run_script": "docker_install_ubuntu.ssh"
+  "success_output": ""
+  "error_output": ""
+  "other": ""
+  }
+}
